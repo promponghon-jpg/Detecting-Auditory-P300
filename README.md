@@ -5,9 +5,6 @@ Table of Contents
   Time →</br>
     ────────────────────────────────────────</br>
     Stimulus:  S  S  S  T  S  S  T  S  S  S</br>
-               ↑           ↑</br>
-            Standard    Target</br>
-            (no P300)  (P300!)</br>
     ────────────────────────────────────────</br>
    
 2) Environment Setup</br>
