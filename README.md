@@ -1,6 +1,6 @@
 Table of Contents
 1) Background: What is P300?
-    <n> The P300 is an event-related potential (ERP) — a brain signal that appears roughly 300      milliseconds after a participant detects a rare, task-relevant stimulus. </n>
+    The P300 is an event-related potential (ERP) — a brain signal that appears roughly 300      milliseconds after a participant detects a rare, task-relevant stimulus.
    
   Time →
     ────────────────────────────────────────
